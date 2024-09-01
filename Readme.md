@@ -24,3 +24,17 @@ This project is a multi-stage form that includes several steps to collect inform
 - Responsive Design: User-friendly design for a great user experience.
 - Server-Side Rendering (SSR): Used for rendering dynamic pages on the server side.
 
+## Technologies Used
+
+- Next.js: React framework for server-side rendering and static site generation.
+- React: JavaScript library for building user interfaces.
+- Jest: JavaScript testing framework used for unit tests.
+  
+# Installation 
+To get started with the project, you'll need to have Node.js and npm (Node Package Manager) installed on your environment. 
+
+- Node.js: Download and install from [nodejs.org](https://nodejs.org/).
+- npm: Comes with Node.js, but you can check the version to ensure it's installed:
+  ```bash
+  node -v
+  npm -v
